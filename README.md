@@ -13,7 +13,7 @@ The source code is **100% Dart**.
 
 ### Some Screenshots
 
-<img height="480px" src="https://user-images.githubusercontent.com/49696449/118353426-c4153700-b583-11eb-8b8d-23a8102a529f.png"><img height="480px" src="https://user-images.githubusercontent.com/49696449/118353414-bc559280-b583-11eb-851b-d1ed2185d9f6.png"><img height="480px" src="https://user-
+<img height="480px" src="assets/images/118353435-ca0b1800-b583-11eb-9186-970def982a23.png"><img height="480px" src="assets/images/118353435-ca0b1800-b583-11eb-9186-970def982a23.png">
 
 ## Features
 - Google Maps Preview
